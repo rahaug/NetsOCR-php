@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace RolfHaug\NetsOCR\Tests;
 
 use PHPUnit\Framework\TestCase;
 
